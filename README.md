@@ -22,6 +22,10 @@ with
 ```
 according to the excercise guide.
 
+##Tech Stack -
 
-Then push that back up to the root of the website.
-
+* Amazon DynamoDB
+* AWS Lambda
+* AWS Cloudfront
+* IAM user
+* API Gateway
