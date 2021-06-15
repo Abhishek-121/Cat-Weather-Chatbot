@@ -27,7 +27,6 @@ according to the excercise guide.
 * AWS Cloudfront
 * IAM user
 * API Gateway
-* Amazon EC2
 * Amazon API
 * HTML, CSS
 * Bootstrap
