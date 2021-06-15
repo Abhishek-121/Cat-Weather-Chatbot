@@ -28,3 +28,5 @@ according to the excercise guide.
 * IAM user
 * API Gateway
 * Amazon API
+* HTML, CSS
+* Bootstrap
