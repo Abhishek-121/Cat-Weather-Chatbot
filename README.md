@@ -6,8 +6,6 @@ The goal of this website is to support the learning of the Building Serverless A
 This folder is designed to be downloaded locally and then uplaoded as is to S3, strictly following the instructions in the excercise guide.,
 
 
-Thought the lab you may need to edit a config file. Simpy replace the `null` with with your content.
-
 For example inside config.json you would replace
 
 ```JavaScript
@@ -22,10 +20,11 @@ with
 ```
 according to the excercise guide.
 
-##Tech Stack -
+## Tech Stack -
 
 * Amazon DynamoDB
 * AWS Lambda
 * AWS Cloudfront
 * IAM user
 * API Gateway
+* Amazon API
